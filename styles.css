@@ -72,7 +72,7 @@ body{
 .row-projects {
     background-color:rgb(241, 246, 248) ;
 }
-li{
+.project-li{
     margin: 0;
     padding: 0;
     list-style-position: inside;
