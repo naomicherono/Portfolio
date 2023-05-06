@@ -1,7 +1,7 @@
 .home{
    
     text-align: center;
-    background-color:rgb(212, 233, 240);
+    background-color:rgb(241, 246, 248);
     height: 300px;
 }
 
@@ -16,13 +16,12 @@ vertical-align: middle;
 height: 300px;
 width: 300px;
 right:30px;
-padding: 50px;
-padding-top: 20px;
+padding: 20px;
+padding-bottom: 20px;
 border-radius: 15%;
-text-align: right;
 }
 body{
-    background-color:bisque;
+    background-color:rgb(236, 236, 231);
 }
 
 .column {
@@ -37,4 +36,8 @@ body{
     text-align: left;
     width: 50%;
     height: 50%;
+}
+.culumn {
+    margin-top: -10px;
+    float: right;
 }
