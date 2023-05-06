@@ -54,9 +54,26 @@ body{
 .column-projects {
     float:left;
     width: 50%;
+    height: 200px;
+    margin-top: 60px;
+    background-color:rgb(241, 246, 248);
+    text-align: center;
+
+
 }
 
 .column-skills {
     float: right;
     width: 50%;
+    height: 200px;
+    background-color:rgb(241, 246, 248);
+    text-align:center;
+}
+.row-projects {
+    background-color:rgb(241, 246, 248) ;
+}
+li{
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
 }
