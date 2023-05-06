@@ -11,7 +11,7 @@
     height: 200px;
 }
 .pic1{
-float: left;
+float: right;
 vertical-align: middle;
 height: 300px;
 width: 300px;
@@ -19,6 +19,7 @@ right:30px;
 padding: 50px;
 padding-top: 20px;
 border-radius: 15%;
+text-align: right;
 }
 body{
     background-color:bisque;
@@ -27,4 +28,13 @@ body{
 .column {
     float: left;
     width: 50%;
+}
+#naomi{
+    font-family: Arial;
+    font-weight:400%;
+}
+#column{
+    text-align: left;
+    width: 50%;
+    height: 50%;
 }
