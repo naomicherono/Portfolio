@@ -33,7 +33,7 @@ body{
     font-weight:400%;
 }
 #column{
-    text-align: left;
+    text-align: center;
     width: 50%;
     height: 50%;
 }
@@ -41,3 +41,4 @@ body{
     margin-top: -10px;
     float: right;
 }
+
