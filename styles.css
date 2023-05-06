@@ -34,11 +34,18 @@ body{
 }
 #column{
     text-align: center;
-    width: 50%;
+    width: 60%;
     height: 50%;
 }
 .culumn {
     margin-top: -10px;
     float: right;
+    width: 40%;
 }
 
+.bio-paragraph {
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: 50px;
+    font-weight: 100;
+}
