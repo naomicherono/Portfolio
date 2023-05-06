@@ -84,8 +84,8 @@ body{
 }
 .contact {
     text-align: center;
-    margin-top: 300px;
-    width: 100%;
+    width: 50%;
+    float: right;
 }
 .skills-li img {
     width: 50px;
@@ -105,3 +105,24 @@ input {
     height: 50px;
     border-radius: 15px;
   }
+  .contact-details {
+    float: left;
+    width: 50%;
+    list-style: none ;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 20px;
+  }
+.contact-row {
+    text-align: center;
+    margin-top: 300px;
+}
+.contact-details img {
+    width: 70px;
+    border-radius: 50%;
+    list-style: none;
+    border-radius: 15px;
+}
+.contact-details li {
+    margin-top:50px;
+}
