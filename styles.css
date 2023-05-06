@@ -1,7 +1,7 @@
 .home{
    
     text-align: center;
-    background-color:lightblue;
+    background-color:rgb(212, 233, 240);
     height: 300px;
 }
 
@@ -9,4 +9,22 @@
     border-radius: 50%;
     width: 200px;
     height: 200px;
+}
+.pic1{
+float: left;
+vertical-align: middle;
+height: 300px;
+width: 300px;
+right:30px;
+padding: 50px;
+padding-top: 20px;
+border-radius: 15%;
+}
+body{
+    background-color:bisque;
+}
+
+.column {
+    float: left;
+    width: 50%;
 }
