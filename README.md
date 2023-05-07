@@ -10,6 +10,7 @@
 
 ```
 git clone https://github.com/naomicherono/Portfolio.git
+git init
 git add <filename>
 git commit -m "initial commmit"
 git push origin master
@@ -27,7 +28,7 @@ git push origin master
 ### License
 MIT License
 
-Copyright (c) [2023] Naomi Cherono
+Copyright (c) 2023 Naomi Cherono
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
