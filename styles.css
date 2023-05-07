@@ -116,6 +116,10 @@ input {
 .contact-row {
     text-align: center;
     margin-top: 300px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 50px;
+
 }
 .contact-details img {
     width: 70px;
